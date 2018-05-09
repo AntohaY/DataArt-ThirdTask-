@@ -1,0 +1,11 @@
+C:\Users\Profi\Desktop\dotnetSchoolTask3\dotnetSchoolTask3\bin\Debug\netcoreapp2.0\DataArtTask3.deps.json
+C:\Users\Profi\Desktop\dotnetSchoolTask3\dotnetSchoolTask3\bin\Debug\netcoreapp2.0\DataArtTask3.runtimeconfig.json
+C:\Users\Profi\Desktop\dotnetSchoolTask3\dotnetSchoolTask3\bin\Debug\netcoreapp2.0\DataArtTask3.runtimeconfig.dev.json
+C:\Users\Profi\Desktop\dotnetSchoolTask3\dotnetSchoolTask3\bin\Debug\netcoreapp2.0\DataArtTask3.dll
+C:\Users\Profi\Desktop\dotnetSchoolTask3\dotnetSchoolTask3\bin\Debug\netcoreapp2.0\DataArtTask3.pdb
+C:\Users\Profi\Desktop\dotnetSchoolTask3\dotnetSchoolTask3\obj\Debug\netcoreapp2.0\DataArtTask3.csprojResolveAssemblyReference.cache
+C:\Users\Profi\Desktop\dotnetSchoolTask3\dotnetSchoolTask3\obj\Debug\netcoreapp2.0\DataArtTask3.csproj.CoreCompileInputs.cache
+C:\Users\Profi\Desktop\dotnetSchoolTask3\dotnetSchoolTask3\obj\Debug\netcoreapp2.0\DataArtTask3.AssemblyInfoInputs.cache
+C:\Users\Profi\Desktop\dotnetSchoolTask3\dotnetSchoolTask3\obj\Debug\netcoreapp2.0\DataArtTask3.AssemblyInfo.cs
+C:\Users\Profi\Desktop\dotnetSchoolTask3\dotnetSchoolTask3\obj\Debug\netcoreapp2.0\DataArtTask3.dll
+C:\Users\Profi\Desktop\dotnetSchoolTask3\dotnetSchoolTask3\obj\Debug\netcoreapp2.0\DataArtTask3.pdb
